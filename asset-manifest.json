@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gautierfournet/static/css/main.073c9b0a.css",
+    "main.js": "/gautierfournet/static/js/main.d03f3f27.js",
+    "static/js/787.d6cb1aba.chunk.js": "/gautierfournet/static/js/787.d6cb1aba.chunk.js",
+    "static/media/burhan.jpg": "/gautierfournet/static/media/burhan.c7338883338411936723.jpg",
+    "index.html": "/gautierfournet/index.html",
+    "main.073c9b0a.css.map": "/gautierfournet/static/css/main.073c9b0a.css.map",
+    "main.d03f3f27.js.map": "/gautierfournet/static/js/main.d03f3f27.js.map",
+    "787.d6cb1aba.chunk.js.map": "/gautierfournet/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d03f3f27.js"
+  ]
+}
