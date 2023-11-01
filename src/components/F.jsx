@@ -1,12 +1,12 @@
 import React from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
-import { OrbitControls , Center, Float, useGLTF } from "@react-three/drei";
+import { Center, Float, useGLTF } from "@react-three/drei";
 import { useRef } from "react";
 import { MeshBasicMaterial } from "three";
 import { easing } from "maath";
 
 
-export default function FlashContact() {
+export default function F() {
 
     const gltf = useGLTF('./F.glb')
 

@@ -1,5 +1,6 @@
 {
   "homepage": "https://gautierfrnt.github.io/gautierfournet",
+  "name": "gautierfournet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
