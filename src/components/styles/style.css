@@ -79,9 +79,13 @@ nav .link button{
     width: 2rem;
 }
 
-/* F */
+/* GLTF */
 
 .content{
+    height: 90vh;
+}
+
+.person{
     height: 90vh;
 }
 
@@ -133,6 +137,7 @@ nav .link button{
     gap: 2rem;
     justify-content: center;
 }
+
 
 /* Skills */
 
@@ -545,6 +550,11 @@ input[type="submit"]:hover{
 
     .contact_bottom p{
         font-size: 10px;
+    }
+
+    /* GLTF */
+    .person{
+        height: 50vh;
     }
   }
   

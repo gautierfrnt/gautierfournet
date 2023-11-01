@@ -27,9 +27,9 @@ export default function Navbar ({theme, toggleTheme }) {
         </a>
       </div>
       <div className='link'>
-        <Link to="/Portfolio-react-vite/">Home</Link>
-        <Link to="/Portfolio-react-vite/Mesprojets">Projets</Link>
-        <Link to="/Portfolio-react-vite/PageContact">Contact</Link>
+        <Link to="/">Home</Link>
+        <Link to="/Mesprojets">Projets</Link>
+        <Link to="/PageContact">Contact</Link>
         <button onClick={toggleDayNightMode}>
           {isDayMode ? <img src={sun} alt="Light" /> : <img src={moon} alt="Dark" />}
         </button>

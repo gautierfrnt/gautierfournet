@@ -23,7 +23,7 @@ export default function App() {
         <div className="noise"></div>
         <div className="container">
           <Navbar theme={theme} toggleTheme={toggleTheme} />
-          {/* <F /> */}
+          <F />
           <About />
           <Skills />
           <Parcours />

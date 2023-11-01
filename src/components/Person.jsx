@@ -34,7 +34,7 @@ export default function Person() {
     return (
 
         
-        <div className="content">
+        <div className="person">
 
 
         <Canvas
@@ -57,14 +57,13 @@ export default function Person() {
    
             <Float rotationIntensity={0.4}>
                 <Center>
-
-                <primitive
-                    object={clonedObject}
-                    // object={gltf.scene}
-                    ref={rotate}
-                    scale={3}
-                    material={wireframeMaterial}
-                />
+                    <primitive
+                        object={clonedObject}
+                        // object={gltf.scene}
+                        ref={rotate}
+                        scale={3}
+                        material={wireframeMaterial}
+                    />
 
                 </Center>
             </Float>
