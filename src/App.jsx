@@ -6,7 +6,7 @@ import Skills from "./components/Skills";
 import Parcours from "./components/Parcours";
 import Projets from "./components/Projets";
 import Contact from "./components/Contact";
-import F from "./components/F";
+// import F from "./components/F";
 import style from './components/styles/style.css'
 
 
@@ -23,7 +23,7 @@ export default function App() {
         <div className="noise"></div>
         <div className="container">
           <Navbar theme={theme} toggleTheme={toggleTheme} />
-          <F />
+          {/* <F /> */}
           <About />
           <Skills />
           <Parcours />

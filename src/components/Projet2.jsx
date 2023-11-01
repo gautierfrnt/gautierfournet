@@ -18,7 +18,7 @@ export default function Projet2 () {
             <div className='left'>
                 <p>EDN est un site web qui a été conçu lors d'un projet scolaire où nous devons promouvoir un évènement fictif. Dans notre cas, on voulait promouvoir un évènement caritatif E-Sport. On avait comme contrainte d'utiliser Wordpress qui offrait peu de fonctionnalité comparé au code. Il fallait tout d'abord créer la maquette sur Figma pour ensuite le traduire en code Wordpress. J'ai été dans une équipe de 5, mon rôle dans ce projet scolaire était de coder l'intégralité du site en Wordpress. J'ai fais cette tâche avec Louis Bocquet, Tanguy Caruel était chargé de designer le site et Valentin Warlop et Lucas Chedhomme était chargé du contenu Multimédia </p>
                 <div>
-                <a className="button" href="" target="_blank" rel="noreferrer">Voir le projet</a>
+                <a className="button" target="_blank" rel="noreferrer">Voir le projet</a>
                 </div>
             </div>
             <div className='right'>
